@@ -1,38 +1,38 @@
 {
   "version": 1,
-  "updated_at": "2026-05-30T00:00:00Z",
+  "updated_at": "2026-05-30T12:00:00Z",
   "currency": "EUR",
   "modules": {
     "pricing": {
-      "annual": 299.90,
-      "monthly_eq": 24.99,
-      "save": 59.98
+      "annual": 999.99,
+      "monthly_eq": 83.33,
+      "save": 199.99
     },
     "deposit": {
-      "annual": 229.90,
-      "monthly_eq": 19.16,
-      "save": 45.98
+      "annual": 888.88,
+      "monthly_eq": 74.07,
+      "save": 177.77
     },
     "skin": {
-      "annual": 149.90,
-      "monthly_eq": 12.49,
-      "save": 29.98
+      "annual": 777.77,
+      "monthly_eq": 64.81,
+      "save": 155.55
     },
     "invoice": {
-      "annual": 119.90,
-      "monthly_eq": 9.99,
-      "save": 23.98
+      "annual": 666.66,
+      "monthly_eq": 55.56,
+      "save": 133.33
     },
     "notifications": {
-      "annual": 89.90,
-      "monthly_eq": 7.49,
-      "save": 17.98
+      "annual": 555.55,
+      "monthly_eq": 46.30,
+      "save": 111.11
     }
   },
   "promo": {
-    "active": false,
-    "label": "",
-    "discount_pct": 0,
-    "ends_at": null
+    "active": true,
+    "label": "TEST PROMO -50%",
+    "discount_pct": 50,
+    "ends_at": "2026-12-31T23:59:59Z"
   }
 }
