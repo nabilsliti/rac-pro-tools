@@ -1,5 +1,8 @@
 # Changelog — pricing.json
 
+## 2026-05-30 (20:00 UTC)
+- `notifications` : 89.90 → 155.90 (monthly_eq 7.49 → 12.99, save 17.98 → 31.18)
+
 ## 2026-05-30 (13:00 UTC) — restore
 - Restauration des valeurs initiales après test
 - Promo désactivée
