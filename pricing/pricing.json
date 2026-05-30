@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "updated_at": "2026-05-30T00:00:00Z",
+  "currency": "EUR",
+  "modules": {
+    "pricing": {
+      "annual": 299.90,
+      "monthly_eq": 24.99,
+      "save": 59.98
+    },
+    "deposit": {
+      "annual": 229.90,
+      "monthly_eq": 19.16,
+      "save": 45.98
+    },
+    "skin": {
+      "annual": 149.90,
+      "monthly_eq": 12.49,
+      "save": 29.98
+    },
+    "invoice": {
+      "annual": 119.90,
+      "monthly_eq": 9.99,
+      "save": 23.98
+    },
+    "notifications": {
+      "annual": 89.90,
+      "monthly_eq": 7.49,
+      "save": 17.98
+    }
+  },
+  "promo": {
+    "active": false,
+    "label": "",
+    "discount_pct": 0,
+    "ends_at": null
+  }
+}
